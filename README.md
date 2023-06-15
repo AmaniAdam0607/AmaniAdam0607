@@ -6,7 +6,7 @@ All things Computer Science ... that is solving problems that range from social 
 Computer Science at Mbeya Univaersity of Science and Technology.
 
 - 💞️ I’m looking to collaborate on ...
-Spftware Development, Dat Science, Embedded Systems, Simulations, AI and ML, and more as per the problem I face.
+Software Development.
 
 - 📫 How to reach me ...
 - Call +255 755974722
