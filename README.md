@@ -8,8 +8,8 @@
 ## currently
 Taking Computer Science at Mbeya Univaersity of Science and Technology.
 
-##Looking to collaborate on
-###Software Development with the following stack 
+## Looking to collaborate on
+### Software Development with the following stack 
 - Web, Python, Javascript, C#
 - Mobile App Development, Javascript and Kotlin
 - Desktop Applications, Javascript and C#
