@@ -1,19 +1,23 @@
-# My Profile
-## I’m interested in ...
+# About me...
+## Proffession
 - Computer Science
 - Programming
-- Programming Languages
-- Machine Learning
+- Algorithms and Data Structures
+- Discrete Mathematics
 
-## currently
-Taking Computer Science at Mbeya Univaersity of Science and Technology.
+I hold a Bachelor Degree in Computer Science from Mbeya University Of Science and Technology.
 
-## Looking to collaborate on
-### Software Development with the following stack 
-- Web, Python, Javascript, C#
-- Mobile App Development, Javascript and Kotlin
-- Desktop Applications, Javascript and C#
+## Looking to collaborate...
+### Software Development with the following stack
+- Java ( professional )
+- JavaScript ( used to build most of my projects )
+- Python ( used to build some of my projects )
 
-How to reach me ... _Call +255 755974722_ or via X at *@fransis_adam*
+### I have done projects in....
+- Web App Development
+- Mobile App Development.
+- Desktop Applications
+
+Contacts :: Call +255 755974722_ or via gmail at *amaniadam178@gmail.com*
 
 _learning and learning_
