@@ -10,8 +10,8 @@ Amani Adam .... open to technical challenges.
 - Python
 - JavaScript
 
-__I crave to wield computational power.__
+Currently doing some stuffs!
 
-Contacts :: Call +255 755974722_ or via gmail at *amaniadam178@gmail.com*
+__I crave to wield computational power.__
 
 **God is great**
