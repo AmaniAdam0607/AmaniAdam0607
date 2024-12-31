@@ -1,6 +1,6 @@
 # About me...
 
-Amani Adam ....loving Luffy character and am open to technical challenges.
+Amani Adam .... open to technical challenges.
 
 ## Proffession
 - Computer Science
