@@ -8,4 +8,4 @@ Amani Fransis Adam.
 
 **God is great, His love endures!**
 
-[Visit My Website for more!](amaniadam.org)
+[Visit My Website for more!](https://amaniadam.org)
